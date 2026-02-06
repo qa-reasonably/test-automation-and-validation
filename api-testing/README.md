@@ -15,4 +15,6 @@ This section demonstrates API testing skills using Postman against a public REST
 - Environment variables
 
 ## Notes
-All requests were validated both via Postman and browser network inspection using Chrome DevTools.
+- All requests were validated both via Postman and browser network inspection using Chrome DevTools.
+- Screenshots demonstrate collection structure, environment configuration, positive and negative API scenarios, authentication flows, and end-to-end execution via Collection Runner.
+- ReqRes was selected to demonstrate realistic REST behaviors (CRUD, auth validation, error handling) without proprietary data.
